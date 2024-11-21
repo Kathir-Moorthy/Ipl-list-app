@@ -52,7 +52,7 @@ function Landing() {
           <Card
             bgcolor={styles.card}
             textColor={styles.text}
-            title={"November 22"}
+            title={"November 23"}
             subtitle={"15:33:05"}
           />
           <Card
