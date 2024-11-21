@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+}
+
+button {
+    transition: all 0.3s ease;
+}
+
+button:hover {
+    transform: scale(1.05);
+}
+
+img {
+    transition: all 0.3s ease;
+}
+
+img:hover {
+    transform: rotate(5deg);
+}
