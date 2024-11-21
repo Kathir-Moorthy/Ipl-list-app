@@ -69,16 +69,16 @@ Welcome to the **IPL Players List App**! This app allows you to manage IPL team 
 # Step 1: Clone the repository
 git clone https://github.com/your-username/ipl-players-list-app.git
 ```
-# Step 2: Navigate to the project directory
+## Step 2: Navigate to the project directory
 ```bash
 cd ipl-players-list-app
 ```
-# Step 3: Install dependencies
+## Step 3: Install dependencies
 ```baah
 npm install
 ```
-# Step 4: Start the development server
+## Step 4: Start the development server
 ``` bash
 npm start
 ```
-# Step 5: Open the app in your browser at:
+## Step 5: Open the app in your browser at:
